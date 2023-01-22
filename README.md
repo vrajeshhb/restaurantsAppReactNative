@@ -1,6 +1,6 @@
 # restaurantsAppReactNative
 
-<img width="400" hieght="400" alt="1-5" src="https://user-images.githubusercontent.com/67744630/212562516-4fd87242-45ed-4043-bf10-07a1cd5bb191.png">
+<img width="400" hieght="400" alt="1" src="https://user-images.githubusercontent.com/67744630/212562516-4fd87242-45ed-4043-bf10-07a1cd5bb191.png">
 <img width="400" hieght="400" alt="1-5" src="https://user-images.githubusercontent.com/67744630/212562518-63ca44cf-e209-44c9-b70b-e6ef1b1263e3.png">
 <img width="400" hieght="400" alt="2" src="https://user-images.githubusercontent.com/67744630/212562519-4f16329a-2f6e-4baa-9a9f-5595b968f00e.png">
 <img width="400" hieght="400" alt="3" src="https://user-images.githubusercontent.com/67744630/212562523-02278aef-e6bc-4300-b9dc-84669bcac550.png">
